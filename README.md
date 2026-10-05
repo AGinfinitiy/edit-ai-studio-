@@ -7,8 +7,6 @@ sdk: docker
 pinned: false
 ---
 
-# EditAI Studio — AI Prompt-to-Video Editor
+# EditAI Studio
 
-Upload videos/photos, type a prompt, and the AI engine renders a complete video:
-smart cuts, beat sync, transitions, speed ramps, slow motion, color grading,
-AI captions, music mixing. Exports 9:16 / 16:9 / 1:1 up to 4K.
+AI prompt-to-video editor. Upload media, type a prompt, get a fully edited video.
